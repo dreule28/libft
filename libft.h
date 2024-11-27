@@ -6,13 +6,14 @@
 /*   By: dreule <dreule@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/08 14:25:46 by dreule            #+#    #+#             */
-/*   Updated: 2024/10/18 13:33:05 by dreule           ###   ########.fr       */
+/*   Updated: 2024/11/25 10:13:19 by dreule           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
+# include "ft_printf/ft_printf.h"
 # include <stddef.h>
 # include <stdlib.h>
 # include <unistd.h>
